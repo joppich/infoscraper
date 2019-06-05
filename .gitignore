@@ -1,0 +1,7 @@
+venv
+*.pyc
+__pycache__
+*.swp
+node_modules
+*.log
+dist
